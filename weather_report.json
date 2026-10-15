@@ -1,0 +1,23 @@
+{
+    "city": "London",
+    "country": "United Kingdom",
+    "latitude": 51.50853,
+    "longitude": -0.12574,
+    "timezone": "Europe/London",
+    "weather": {
+        "time": "2026-10-15T10:30",
+        "interval": 900,
+        "temperature_2m": 18.0,
+        "relative_humidity_2m": 86,
+        "wind_speed_10m": 16.2,
+        "weather_code": 3
+    },
+    "units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "relative_humidity_2m": "%",
+        "wind_speed_10m": "km/h",
+        "weather_code": "wmo code"
+    }
+}
